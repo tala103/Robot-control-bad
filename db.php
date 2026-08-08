@@ -1,9 +1,9 @@
 <?php
 // بيانات الاتصال بقاعدة البيانات - غيّرها ببياناتك من InfinityFree
-$host = "sql106.infinityfree.com";      // اسم السيرفر (Hostname)
-$user = "if0_42361814";                 // اسم المستخدم
-$pass = "GN4zfGnoldkBSEg";              // كلمة المرور
-$dbname = "if0_42361814_tables";        // اسم قاعدة البيانات
+$host = "sqlxxxxxxxxx";      // اسم السيرفر (Hostname)
+$user = "ifxxxxxxxx";                 // اسم المستخدم
+$pass = "xxxxxxxxxx";              // كلمة المرور
+$dbname = "if0xxxxxxxxx";        // اسم قاعدة البيانات
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
