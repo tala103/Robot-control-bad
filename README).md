@@ -4,7 +4,7 @@ A simple web-based remote control panel for a robot. The web page sends movement
 
 **Live demo:** [tala.kesug.com/tables](https://tala.kesug.com/tables/)
 
-![Control pad in action](./control-pad-screenshot.jpeg)
+![Control pad in action](./screenshot4.png)
 
 ## How it works
 
